@@ -50,9 +50,12 @@ The main window will open.
 Select global shutter camera.  
 ![screen2](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/31432177-792d-4b24-bf06-d58ea61afefd)   
 Open up video capture filter.  
+
 ![screen3](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/b4812322-0bca-478c-beda-bf30eee6fdd3)  
   
 Select Camera Control tab. 
+
+
 ![image](https://github.com/user-attachments/assets/426ed035-6ade-402f-abab-6f343c46cdec)  
 Here you can change to auto or manual exposure.  
 Manual exposure is recommended.  
@@ -60,19 +63,25 @@ Manual exposure is recommended.
 It is to be noted that this screen can be envoked at any time during capture by pressing up arrow on the keyboard.  
 This allows for dynamic exposure change at any time during capture.  
 ![screen5](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/1a741eb8-49dd-4831-aec7-0d6521a3948e)  
-![screen6](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/5b482be2-e268-4174-b48d-42a687adceef)  
+
+ 
+
+Set output frame rate to 8.  
+![image](https://github.com/user-attachments/assets/c42915d8-aa2e-4f93-9abc-7ff824ab9fb3)  
+The frame rate and exposure have to work together to minimize flicker and ghosting.  
+If exposure is too long it will result in excessive ghosting (duplicate shifted frames),  
+and too short exposure will result in flicker. So it is a compromise of projector speed, exposure and frame rate.  
+The best projector speed in this setup was around the minimum.   
+
+
 Turn preview on.  
 ![screen7](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/b5dfb735-9e85-470e-95a3-6d5c262c856e)  
 The preview window should open.  
 ![screen9](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/2edda9b2-7c0b-4870-aebd-e29851d7fd61)  
-Adjust focus by sliding the camera in and out of the projector lens mount barrel.  
-Pull out on the focus adjust knob to release the tension on the camera mount.  
-This will make the adjustment easier to do. 
-![screen10](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/96c1e6b2-c46a-439d-ae76-0a1c5af9ffa3)  
+Adjust framing by changing the camera distance.  
+Adjust focus using the nens focusing ring.     
 Adjust the projector height by turning the projector height adjustment screw in and out to center the frame height in the   
-capture window. The projector height when adjustedd properly will make the projector weight push down onto the camera bottom post  
-so that the captured frame is right in the center of the capture window.  
-![screen11](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/dbf3b95c-0e63-4b4e-b1b0-185b029f04d4)  
+capture window. 
 Start the capture.  
 ![screen12](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/5bb53971-cb2d-4c95-b7f4-99318d242bf9)  
 Set output video file.  
@@ -82,12 +91,9 @@ Click OK when this window pops up.
 Click OK again.  
 ![screen15](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/76b3038c-7292-48cc-bf5a-9aa963c6efaf)  
 The capture process will start.
-Adjust the speed by turning the speed d knob past the midd point roughly pointing to the center of the "FAST" label.
-If there is some flicker present then turn the speed up or down slightly until you get zero flicker.  
-Note that it some cases the flicker cannot be completely eliminated if the exposure is set too low.  
-In that case hit the Up arrow key and in the camera tab tweak the exposure higher and readjust the speed.  
+Adjust the speed by turning the speed knob past close to the minimum setting for lowest flicker.  
 A fast way of changing the exposure can be achieved by clicking onto the exposure slider.  
-The slider will bee highlighted. Now just use the left and right arrow keys.  
+The slider will be highlighted. Now just use the left and right arrow keys.  
 Once done  with the  film, click OK on the exposure window.  
 The window will close.  
 Stop the capture by clicking on the stop  pulldown.  
