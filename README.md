@@ -47,18 +47,18 @@ Unzip it there.
 Go to the release dir and double click on AmCap.exe   
 The main window will open.  
 ![image](https://github.com/user-attachments/assets/8b795462-a885-40b0-ae48-b7304b1577a2)  
- 
-
 Select global shutter camera.  
 ![screen2](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/31432177-792d-4b24-bf06-d58ea61afefd)   
 Open up video capture filter.  
 ![screen3](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/b4812322-0bca-478c-beda-bf30eee6fdd3)  
-Select Camera Control tab.  
+Select Camera Control tab. 
+![image](https://github.com/user-attachments/assets/426ed035-6ade-402f-abab-6f343c46cdec)  
 Here you can change to auto or manual exposure.  
-Manual exposure is recommended.  
+Manual exposure is recommended.
+![image](https://github.com/user-attachments/assets/fae7940e-4849-44e3-a883-49258a79be5d)  
 It is to be noted that this screen can be envoked at any time during capture by pressing up arrow on the keyboard.  
 This allows for dynamic exposure change at any time during capture.  
-Set output frame ratae to 15.  
+Set output frame rate to 8.  
 ![screen5](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/1a741eb8-49dd-4831-aec7-0d6521a3948e)  
 ![screen6](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/5b482be2-e268-4174-b48d-42a687adceef)
 Turn preview on.  
