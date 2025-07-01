@@ -59,6 +59,10 @@ Manual exposure is recommended.
 It is to be noted that this screen can be envoked at any time during capture by pressing up arrow on the keyboard.  
 This allows for dynamic exposure change at any time during capture.  
 Set output frame rate to 8.  
+The frame rate and exposure have to work together to minimize flicker and ghosting.  
+If exposure is too long it will result in excessive ghosting (duplicate shifted frames),  
+and too short exposure will result in flicker. So it is a compromise of projector speed, exposure and frame rate.  
+The best projector speed in this setup was around the minimum.   
 ![screen5](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/1a741eb8-49dd-4831-aec7-0d6521a3948e)  
 ![screen6](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/5b482be2-e268-4174-b48d-42a687adceef)
 Turn preview on.  
