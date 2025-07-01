@@ -46,7 +46,8 @@ Download into your locala work directory.
 Unzip it there.  
 Go to the release dir and double click on AmCap.exe   
 The main window will open.  
-![screen1](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/09983974-9ee7-44ed-8e7e-751a255339e8)  
+![image](https://github.com/user-attachments/assets/8b795462-a885-40b0-ae48-b7304b1577a2)  
+ 
 
 Select global shutter camera.  
 ![screen2](https://github.com/vintagefilmography/sankyo_real_time_capture/assets/48537944/31432177-792d-4b24-bf06-d58ea61afefd)   
